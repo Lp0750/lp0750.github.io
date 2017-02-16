@@ -1,4 +1,6 @@
+
 h1 {
+	text-align: center;
 	color: #7FFF00;
 	font-family: Helvetica;
 
@@ -7,6 +9,7 @@ h1 {
 p {
 	color: grey;
 	font-family: arial;
+	text-align: center;
 }
 
 span{
