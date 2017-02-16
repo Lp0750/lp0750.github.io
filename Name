@@ -1,11 +1,26 @@
 <!DOCTYPE html>
 <html>
 
+<head>
+    <title>My site</title>
+    <link rel='stylesheet' type='text/css' href=
+</head>
+
 <body>
 
-<h1>Hello World</h1>
+   <h1>Part 1</h1>
 
-<p>I'm hosted with GitHub pages.</p>
+   <p>This is the first part of my webpage</p>
+
+
+
+ <div>
+
+
+    <h1>Part 2</h1>
+
+    <p>This is the second part.</p>
+
 
 </body>
 
