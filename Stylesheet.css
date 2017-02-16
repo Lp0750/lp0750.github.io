@@ -1,0 +1,15 @@
+h1 {
+	color: #7FFF00;
+	font-family: Helvetica;
+
+}
+
+p {
+	color: grey;
+	font-family: arial;
+}
+
+span{
+	color: orange;
+	font-size: 20px;
+}
