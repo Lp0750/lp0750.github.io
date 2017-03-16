@@ -3,3 +3,7 @@
 .row
 
 { font-color: blue;}
+
+.jumbotron {
+	background-image: url("jumbotron.jpeg");
+}
