@@ -3,3 +3,20 @@
 .row
 
 { font-color: blue;}
+
+#social-buttons button { 
+color: white;
+}
+.btn-twitter {
+background-color: #00acee;
+border-color: #009ad5; 
+}
+.btn-facebook { background-color: #4868ac; border-color: #314776;
+}
+.btn-instagram {
+background-color: #DD4B39; border-color: #517fa4	
+}
+
+.jumbotron {
+	background-image: url("jumbotron.jpeg");
+}
