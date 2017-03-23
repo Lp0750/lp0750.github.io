@@ -1,22 +1,182 @@
 
 
+title{
+	font-family: arial;
+	color: lightblue;
+}
+
+
+
+body {
+	font-family: arial;
+	background-image: url("jumbotron.jpeg");
+	background-size: cover;
+    background-position:center;
+
+}
+
+
+
+.navbar{
+	background-color: #FFEFD5;
+	color: white<;
+}
+
+Midnight color:   #191970; 
+Red:#FF0000;
+
+.navbar-brand{
+	font-family: all;
+	color: white;
+}
+
+.jumbotron {
+  font-family: all;
+  color: #FF4500;
+  margin-left: 2px;
+ 
+}
+
+h1{
+	text-align: center;
+}
+
 .row
 
 { font-color: blue;}
 
-#social-buttons button { 
-color: white;
-}
-.btn-twitter {
-background-color: #00acee;
-border-color: #009ad5; 
-}
-.btn-facebook { background-color: #4868ac; border-color: #314776;
-}
-.btn-instagram {
-background-color: #DD4B39; border-color: #517fa4	
-}
-
 .jumbotron {
 	background-image: url("jumbotron.jpeg");
+
+}
+
+
+
+.col-md-4{
+	border-width: 2px;
+	border-color: green;
+	background-color: #FDF5E6;
+	text-align: center;
+}
+
+
+<---not working--->
+#BIG{
+	text-align: center;
+}
+
+
+.col-md-5{
+	background-color: #ADFF2F;
+	background-color: #FAF0E6
+	border-color: #F0FFFF;
+
+}
+
+
+
+#FOOD{
+	background-color: #FAF0E6;
+	border-width: 2px;
+	border-color: #008080;
+}
+
+
+#TRAVEL{
+	background-color: #EEE8AA;
+}
+
+
+
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: blue;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+
+
+
+#mission{
+	background-color: #2F4F4F;
+	color: #778899;
+	#48D1CC;
+}
+
+
+.btn-success {
+	background-color: #E0FFFF;
+	color: black;
+	border-color: #4682B4;
+	border-width: 2px;
+	font-family: arial;
+	color: black;
+
+}
+
+form{
+	color: white;
+	font-family: helvetica;
+}
+
+
+
+#social-buttons button {
+	    color: white;
+}
+
+.btn-twitter{
+	   background-color: #00acee;
+	   border-color: #009ad5;
+}
+
+.btn-facebook{
+	background-color: #4868ac;
+	border-color: #314776;
+}
+
+.btn-instagram {
+	background-color: purple;
+	border-color:  purple;
 }
