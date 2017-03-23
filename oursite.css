@@ -77,16 +77,32 @@ h1{
 
 
 #FOOD{
-	background-color: #FAF0E6;
+	background-color: ##EEE8AA;
 	border-width: 2px;
+	background-opacity:75%;
 	border-color: #008080;
+}
+.foodtitle{
+	color: #4B0082;
+}
+
+.foodparagraph{
+	color: #1E90FF;
 }
 
 
 #TRAVEL{
-	background-color: #EEE8AA;
+	background-color: ##EEE8AA;
+	border-width: 2px;
+	background-opacity:75%;
+	border-color: #008080;
 }
-
+.traveltitle{
+	color: #4B0082;
+}
+.travelparagraph{
+	color: #1E90FF;
+}
 
 
 
