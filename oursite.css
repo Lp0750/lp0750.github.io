@@ -18,7 +18,7 @@ body {
 
 
 .navbar{
-	background-color: #B0E0E6;
+	background-color: #FFEFD5;
 	color: white<;
 }
 
@@ -76,7 +76,7 @@ h1{
 
 #FOOD{
 	border-style: solid;
-	background-color: ##EEE8AA;
+	background-color: ;
 	border-width: 2px;
 	background-opacity:75%;
 	border-color: #008080;
@@ -107,7 +107,7 @@ h1{
 
 
 .dropbtn {
-    background-color: #4CAF50;
+    background-color: #B0E0E6;
     color: white;
     padding: 16px;
     font-size: 16px;
